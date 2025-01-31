@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am Jonghyun Park, a PhD candidate in Economics at Virginia Tech. I am interested in network theory and informaiton design.
+Hi, I am Jonghyun Park, a third-year PhD student in Economics at Virginia Tech. I am interested in network theory and informaiton design.
